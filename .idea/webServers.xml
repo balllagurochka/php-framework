@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4b93395-fb8b-4de8-8256-225d8b2b71d1" name="php_framework" url="http://localhost">
+        <fileTransfer mountedRoot="C:\wamp64\www\php-framework" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
